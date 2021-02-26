@@ -1,4 +1,4 @@
-# link: https://www.tensorflow.org/beta/guide/using_gpu
+# Link refrensi: https://www.tensorflow.org/guide/gpu
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 
