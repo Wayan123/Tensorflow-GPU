@@ -1,5 +1,7 @@
 # Link refrensi: https://www.tensorflow.org/guide/gpu
 
+import tensorflow as tf
+
 from __future__ import absolute_import, division, print_function, unicode_literals
 
 tf.debugging.set_log_device_placement(True)
