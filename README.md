@@ -13,5 +13,6 @@ Ada beberapa tahap untuk menjalankan tensorflow GPU di komputer atau laptop yang
 5. Jika ada error open dynamic cudart64_101.dll, download dahulu di link berikut https://www.dll-files.com/cudart64_101.dll.html, lalu extract dan simpan di C:// ->    User -> NameUser -> Anaconda3 -> envs -> yourenv -> Libarry -> bin (paste disini)
 6. Install cuDNN sesuai versi tensorflow, untuk tensorflow-gpu versi 2.3.0 pakai cuDNN versi 7.6 dan CUDA 10, ketik di anaconda prompt shell "conda install cudnn=7" lalu enter
 7. Jika tidak ada error lagi dan dynamic open berhasil, tinggal tes code GPU test di repo ini.
-8. Link install lebih lengkap dapat dibaca di https://warstek.com/tensorflowgpu/
-9. Happy Deep Learning
+8. Link tutorial youtube https://youtu.be/G_HBDFXDXFI (Part 1) dan https://youtu.be/aWlDKT1NK1c (Part 2)
+9. Link install lebih lengkap dapat dibaca di https://warstek.com/tensorflowgpu/
+10. Happy Deep Learning
