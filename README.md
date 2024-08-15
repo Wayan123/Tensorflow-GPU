@@ -18,3 +18,5 @@ Ada beberapa tahap untuk menjalankan tensorflow GPU di komputer atau laptop yang
 10. Link install lebih lengkap dapat dibaca di https://warstek.com/tensorflowgpu/
 11. Happy Deep Learning
 12. Test input
+
+13. Jika gagal gunakan cara terbaru berikut: https://www.tensorflow.org/install/pip#windows-native
