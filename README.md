@@ -1,3 +1,5 @@
+Cara terbaru bisa mengikuti petunjuk disini https://www.tensorflow.org/install/pip#windows-native_1
+
 Ini untuk versi Windows 10 (hanya untuk GPU Nvidia bukan utnuk AMD)
 
 Cara menginstall tensorflow GPU pada laptop atau komputer yang memiliki GPU Nvidia tidak begitu susah.
